@@ -1,6 +1,6 @@
-# thshop
+# TH Shop
 
-A new Flutter project.
+Design the user interface for a Flutter e-commerce application.
 
 ## Getting Started
 
